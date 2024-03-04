@@ -1,5 +1,5 @@
-pandas as pd
-matplotlib.pyplot as plt
-seaborn as sns
-streamlit as st
+pandas 
+matplotlib.pyplot 
+seaborn 
+streamlit 
 from babel.numbers import format_currency
